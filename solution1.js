@@ -1,7 +1,7 @@
 let studentGrade = prompt("Enter your grade:");
 
 if (studentGrade > 100 || studentGrade < 0) {
-  alert("Invalid Mark");
+  alert("Invalid Marks");
 }
 if (studentGrade > 79) {
   alert("You scored A ");
