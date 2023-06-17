@@ -1,5 +1,7 @@
+//prompt user to input marks
 let studentGrade = prompt("Enter your marks:");
 
+//check student marks against renge given to display grade scored
 if (studentGrade > 100 || studentGrade < 0) {
   alert("Invalid Marks");
 }
