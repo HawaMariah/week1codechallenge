@@ -1,3 +1,4 @@
+//NET SALARY CALCULATOR
 //Prompt the user for input for basic salary and benefits
 let basicSalary = parseFloat(prompt("Enter your monthly Basic Salary:"));
 let benefits = parseFloat(prompt("Enter your monthly  total Benefits:"));

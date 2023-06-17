@@ -1,3 +1,4 @@
+//SPEED DETECTOR
 //prompt the user to input car speed
 let carSpeed = prompt("Car Speed:");
 //car speed limit 70km/h

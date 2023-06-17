@@ -1,3 +1,4 @@
+//GRADE GENERATOR
 //prompt user to input marks
 let studentGrade = prompt("Enter your marks:");
 
