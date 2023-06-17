@@ -1,4 +1,4 @@
-let studentGrade = prompt("Enter your grade:");
+let studentGrade = prompt("Enter your marks:");
 
 if (studentGrade > 100 || studentGrade < 0) {
   alert("Invalid Marks");
